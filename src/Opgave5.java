@@ -16,7 +16,7 @@ public class Opgave5 { // har lavet en class da der ikke var nogen
 
     }
 
-    void minimum(int a, int b) { // ændret til int fra void, da vi returnere int
+    void minimum(int a, int b) { // ændret til int fra void, da vi returnere int // valgt ikke at gøre alligevel da jeg ikke vil have værdier returneret
         if (a < b) {
 
             System.out.println(a + " is the smallest number!");
